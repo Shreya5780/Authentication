@@ -11,7 +11,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
 // *** firebase **** 
-// /* for web application
+ /* for web application
 
 
   await Firebase.initializeApp(
@@ -22,7 +22,7 @@ void main() async {
       projectId: "spotifyclone-17b87",
         )
   );
-  // */
+   */
      Get.put(AuthController());
 
   // await Firebase.initializeApp().then((value)=>Get.put(AuthController()));
