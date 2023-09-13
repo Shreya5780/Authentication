@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017776526217",
+    "project_id": "spotifyclone-17b87",
+    "storage_bucket": "spotifyclone-17b87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017776526217:android:63815f2b7db42752fd8758",
+        "android_client_info": {
+          "package_name": "com.example.melody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017776526217-299urvtcp37pe3hpuukknl7lrpuju76m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzoKNd3irQVYCQK61qmRkNh7P1BjeB3ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017776526217-299urvtcp37pe3hpuukknl7lrpuju76m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
